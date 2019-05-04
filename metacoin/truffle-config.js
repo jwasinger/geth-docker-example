@@ -11,7 +11,7 @@ module.exports = {
       */
       host: "127.0.0.1",
       port: 8545,
-      network_id: '66',
+      network_id: '65',
       from: '7976977ecf72519e656a27c16b8c406329e46b78'
     }
   }
