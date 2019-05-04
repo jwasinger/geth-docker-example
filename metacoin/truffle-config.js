@@ -7,7 +7,7 @@ module.exports = {
       provider: function() {
         return new Web3.providers.IpcProvider("/home/ubuntu/projects/geth-example/data/geth.ipc", net);
       },
-      network_id: '66',
+      network_id: '65',
       from: '7976977ecf72519e656a27c16b8c406329e46b78'
     }
   }
